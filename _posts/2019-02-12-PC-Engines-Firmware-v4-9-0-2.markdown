@@ -61,15 +61,15 @@ patches have not yet been merged and/or sent (AGESA headers).
 
 Patches merged:
 
-- **[Enable LPC TPM on apu1](https://review.coreboot.org/c/coreboot/+/30354)**
+- [Enable LPC TPM on apu1][1]
 
-- **[Enable CPB](https://review.coreboot.org/c/coreboot/+/31229)**
+- [Enable CPB][2]
 
 ## Testing
 
-* **PC Engines** [hardware configuration matrix](https://3mdeb.com/wp-content/uploads/2019/02/3mdeb-lab-hw-matrix.png) - hardware configurations available for testing in 3mdeb laboratory.
+* [PC Engines hardware configuration matrix][3] - hardware configurations available for testing in 3mdeb laboratory.
 
-* **PC Engines** [release validation results](https://3mdeb.us16.list-manage.com/track/click?u=fce95b885fc13fbf1db611816&id=96d9b426c0&e=16ffa34a09) - please note there are separate sheets for each board-release.
+* [PC Engines release validation results][4] - please note there are separate sheets for each board-release.
 
 Test changes in this release:
 
@@ -178,3 +178,9 @@ below that happened during regression testing.
   [SHA256 sig](https://cloud.3mdeb.com/index.php/s/SewAjA3fjkZHnrY/download)
 
 See how to verify the signatures on [asciinema](https://asciinema.org/a/227035)
+
+[1]: https://review.coreboot.org/c/coreboot/+/30354
+[2]: https://review.coreboot.org/c/coreboot/+/31229
+[3]: https://3mdeb.com/wp-content/uploads/2019/02/3mdeb-lab-hw-matrix.png
+[4]: https://3mdeb.us16.list-manage.com/track/click?u=fce95b885fc13fbf1db611816&id=96d9b426c0&e=16ffa34a09
+
